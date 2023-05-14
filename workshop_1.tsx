@@ -10,6 +10,7 @@ import {
   View,
 } from 'react-native';
 
+
 export const ButtonPersonalized = ({ name, action }) => {
   return (
     <TouchableOpacity onPress={action} style={styles.btnStyle}>

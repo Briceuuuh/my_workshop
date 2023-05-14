@@ -1,12 +1,8 @@
 import React, { useState } from 'react';
 import {
-  Button,
   SafeAreaView,
-  StyleSheet,
   Text,
-  TextInput,
   TouchableOpacity,
-  useColorScheme,
   View,
 } from 'react-native';
 
